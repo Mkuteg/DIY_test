@@ -1,0 +1,1 @@
+const API_URL = "https://my-diy-test.com"
